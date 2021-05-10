@@ -1,2 +1,2 @@
 # Collection-PHP
-Graph, Set, Tree, Stack and Queue Program
+Graph, Set, Tree, Hash Table, Stack and Queue Program
